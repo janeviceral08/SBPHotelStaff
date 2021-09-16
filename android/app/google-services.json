@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706498592538",
+    "firebase_url": "https://hotel-fcm-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hotel-fcm",
+    "storage_bucket": "hotel-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706498592538:android:f1ca9d5ec287cc520836a3",
+        "android_client_info": {
+          "package_name": "com.notif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706498592538-f7stpg32ub8agplm8k67di2v91n98db1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdvc2QMdvoW3h64VHDYIjSGRxsGGxFYys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706498592538-f7stpg32ub8agplm8k67di2v91n98db1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
